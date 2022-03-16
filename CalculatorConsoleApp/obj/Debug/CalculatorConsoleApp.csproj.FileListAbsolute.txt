@@ -1,0 +1,6 @@
+c:\users\ppa ppmi orica kpc\onedrive\dokumen\visual studio 2015\Projects\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+c:\users\ppa ppmi orica kpc\onedrive\dokumen\visual studio 2015\Projects\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+c:\users\ppa ppmi orica kpc\onedrive\dokumen\visual studio 2015\Projects\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+c:\users\ppa ppmi orica kpc\onedrive\dokumen\visual studio 2015\Projects\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+c:\users\ppa ppmi orica kpc\onedrive\dokumen\visual studio 2015\Projects\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
+c:\users\ppa ppmi orica kpc\onedrive\dokumen\visual studio 2015\Projects\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csprojResolveAssemblyReference.cache
